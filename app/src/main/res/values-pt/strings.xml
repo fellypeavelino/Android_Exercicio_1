@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Melhor Preco</string>
+    <string name="bt_exibir">Exibir</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_gasolina">Gasolina</string>
+    <string name="label_alcool">Alcool</string>
+    <string name="resultado_alcool">Melhor preço Alcool</string>
+    <string name="resultado_gasolina">Melhor preço Gasolina</string>
+</resources>
